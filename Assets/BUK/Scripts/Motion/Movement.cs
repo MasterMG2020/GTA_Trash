@@ -16,11 +16,11 @@ namespace Buk.Motion
     [Header("Rotate")]
     public InputAction rotate;
     [Header("Speed and acceleration")]
-    public float moveAcceleration = 5f;
+    public float moveAcceleration = 15f;
     public float strafeAcceleration = 3f;
     public float rotateVelocity = 1f;
-    public float jumpVelocity = 3f;
-    public float maxVelocity = 15f;
+    public float jumpVelocity = 15f;
+    public float maxVelocity = 200f;
 
     private new CapsuleCollider collider;
     private Rigidbody body;
@@ -48,7 +48,8 @@ namespace Buk.Motion
     }
     public void FixedUpdate()
     {
-      var newOnGround = body.SweepTest(-transform.up, out var _, 0.1f);
+      var newOnGround = body.SweepTest(-transform.up, out var _, 0.5f);
+      Debug.Log($"newOnGround = {(newOnGround)}");
       if (onGround != newOnGround) {
         onGround = newOnGround;
         //Debug.Log($"Player is {(onGround ? "on" : "off")} the ground.");
