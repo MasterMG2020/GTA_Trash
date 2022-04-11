@@ -42268,7 +42268,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3931231867528561449, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
       propertyPath: m_Mass
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 3931231867528561449, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
       propertyPath: m_UseGravity
@@ -42288,7 +42288,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3931231867528561452, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
       propertyPath: jumpVelocity
-      value: 10
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 3931231867528561452, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
       propertyPath: moveAcceleration
