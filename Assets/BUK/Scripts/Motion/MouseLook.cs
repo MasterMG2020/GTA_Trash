@@ -27,6 +27,11 @@ namespace Buk.Motion
       mouseLook.Enable();
     }
 
+    void Start()
+    {
+        Cursor.lockState = CursorLockMode.Locked;
+    }
+
     public void Look(InputAction.CallbackContext context)
     {
       var delta = context.ReadValue<Vector2>();
