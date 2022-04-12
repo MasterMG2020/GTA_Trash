@@ -132,7 +132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2653959}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -169,7 +169,7 @@ GameObject:
   - component: {fileID: 3127961}
   - component: {fileID: 3127960}
   - component: {fileID: 3127959}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -700,7 +700,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 29769691}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -885,7 +885,7 @@ GameObject:
   - component: {fileID: 42110139}
   - component: {fileID: 42110138}
   - component: {fileID: 42110137}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1344,6 +1344,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 6a40c536e4975ff45976537a8535a0b2, type: 3}
       propertyPath: m_Name
       value: Residential Buildings 009
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6a40c536e4975ff45976537a8535a0b2, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6a40c536e4975ff45976537a8535a0b2, type: 3}
       propertyPath: m_RootOrder
@@ -2019,7 +2023,7 @@ GameObject:
   - component: {fileID: 72279126}
   - component: {fileID: 72279125}
   - component: {fileID: 72279124}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2488,7 +2492,7 @@ GameObject:
   - component: {fileID: 98525072}
   - component: {fileID: 98525071}
   - component: {fileID: 98525070}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2805,7 +2809,7 @@ GameObject:
   - component: {fileID: 115286796}
   - component: {fileID: 115286795}
   - component: {fileID: 115286794}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3274,7 +3278,7 @@ GameObject:
   - component: {fileID: 141890069}
   - component: {fileID: 141890068}
   - component: {fileID: 141890067}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3591,7 +3595,7 @@ GameObject:
   - component: {fileID: 165965843}
   - component: {fileID: 165965842}
   - component: {fileID: 165965841}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4158,7 +4162,7 @@ GameObject:
   - component: {fileID: 183758121}
   - component: {fileID: 183758120}
   - component: {fileID: 183758119}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4915,7 +4919,7 @@ GameObject:
   - component: {fileID: 222688034}
   - component: {fileID: 222688033}
   - component: {fileID: 222688032}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5009,6 +5013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Residential Buildings 010_01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c793ecd53cc5d0a4780a6fc8cff2caf8, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c793ecd53cc5d0a4780a6fc8cff2caf8, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -5067,7 +5075,7 @@ GameObject:
   - component: {fileID: 226798609}
   - component: {fileID: 226798608}
   - component: {fileID: 226798607}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5541,7 +5549,7 @@ GameObject:
   - component: {fileID: 234677368}
   - component: {fileID: 234677367}
   - component: {fileID: 234677366}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6517,6 +6525,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 2bcda4b9ec7f2144ca69699d6e982133, type: 3}
       propertyPath: m_Name
       value: Residential Buildings 003
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2bcda4b9ec7f2144ca69699d6e982133, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2bcda4b9ec7f2144ca69699d6e982133, type: 3}
       propertyPath: m_RootOrder
@@ -7563,7 +7575,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 330886701}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8192,7 +8204,7 @@ Transform:
   - {fileID: 1518719277}
   - {fileID: 1585088126}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &343098352
 PrefabInstance:
@@ -8354,7 +8366,7 @@ GameObject:
   - component: {fileID: 348556830}
   - component: {fileID: 348556829}
   - component: {fileID: 348556828}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8519,7 +8531,7 @@ GameObject:
   - component: {fileID: 356364212}
   - component: {fileID: 356364211}
   - component: {fileID: 356364210}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8701,7 +8713,7 @@ GameObject:
   - component: {fileID: 367175588}
   - component: {fileID: 367175587}
   - component: {fileID: 367175586}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8944,7 +8956,7 @@ GameObject:
   - component: {fileID: 372127801}
   - component: {fileID: 372127800}
   - component: {fileID: 372127799}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9261,7 +9273,7 @@ GameObject:
   - component: {fileID: 385448604}
   - component: {fileID: 385448603}
   - component: {fileID: 385448602}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11954,6 +11966,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Residential Buildings 010_02
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c793ecd53cc5d0a4780a6fc8cff2caf8, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c793ecd53cc5d0a4780a6fc8cff2caf8, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -12686,7 +12702,7 @@ GameObject:
   - component: {fileID: 588272607}
   - component: {fileID: 588272606}
   - component: {fileID: 588272605}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12933,7 +12949,7 @@ GameObject:
   - component: {fileID: 594285822}
   - component: {fileID: 594285821}
   - component: {fileID: 594285820}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13550,7 +13566,7 @@ GameObject:
   - component: {fileID: 640945381}
   - component: {fileID: 640945380}
   - component: {fileID: 640945379}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13946,7 +13962,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 654757057}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15114,7 +15130,7 @@ GameObject:
   - component: {fileID: 730263033}
   - component: {fileID: 730263032}
   - component: {fileID: 730263031}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16478,7 +16494,7 @@ GameObject:
   - component: {fileID: 778901789}
   - component: {fileID: 778901788}
   - component: {fileID: 778901787}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16933,6 +16949,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Residential Buildings 004
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: debb145ece23b324a94fdfaa24449b8f, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: debb145ece23b324a94fdfaa24449b8f, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -16988,7 +17008,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 796065552}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_08
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17101,7 +17121,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 798744014}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17135,7 +17155,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 813167668}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Buildings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17256,7 +17276,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 51.814, y: -93.082, z: 290.789}
 --- !u!1 &821722983
 GameObject:
@@ -17270,7 +17290,7 @@ GameObject:
   - component: {fileID: 821722987}
   - component: {fileID: 821722986}
   - component: {fileID: 821722985}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17676,7 +17696,7 @@ GameObject:
   - component: {fileID: 841265157}
   - component: {fileID: 841265156}
   - component: {fileID: 841265155}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20374,7 +20394,7 @@ GameObject:
   - component: {fileID: 956558421}
   - component: {fileID: 956558420}
   - component: {fileID: 956558419}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20545,7 +20565,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 966216085}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20879,7 +20899,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 976737035}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21578,7 +21598,7 @@ GameObject:
   - component: {fileID: 1012549569}
   - component: {fileID: 1012549568}
   - component: {fileID: 1012549567}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22809,7 +22829,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1062490758}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22846,7 +22866,7 @@ GameObject:
   - component: {fileID: 1063718625}
   - component: {fileID: 1063718624}
   - component: {fileID: 1063718623}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23962,6 +23982,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Residential Buildings 010
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c793ecd53cc5d0a4780a6fc8cff2caf8, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c793ecd53cc5d0a4780a6fc8cff2caf8, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -24173,7 +24197,7 @@ GameObject:
   - component: {fileID: 1138070260}
   - component: {fileID: 1138070259}
   - component: {fileID: 1138070258}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25152,7 +25176,7 @@ GameObject:
   - component: {fileID: 1201842691}
   - component: {fileID: 1201842690}
   - component: {fileID: 1201842689}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25395,7 +25419,7 @@ GameObject:
   - component: {fileID: 1209739560}
   - component: {fileID: 1209739559}
   - component: {fileID: 1209739558}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25851,7 +25875,7 @@ GameObject:
   - component: {fileID: 1223715079}
   - component: {fileID: 1223715078}
   - component: {fileID: 1223715077}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26655,7 +26679,7 @@ GameObject:
   - component: {fileID: 1262820889}
   - component: {fileID: 1262820888}
   - component: {fileID: 1262820887}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27120,7 +27144,7 @@ GameObject:
   - component: {fileID: 1282961740}
   - component: {fileID: 1282961739}
   - component: {fileID: 1282961738}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27519,7 +27543,7 @@ GameObject:
   - component: {fileID: 1315734016}
   - component: {fileID: 1315734015}
   - component: {fileID: 1315734014}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27602,36 +27626,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1315734012}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1319965726
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1319965727}
-  m_Layer: 0
-  m_Name: GroundCheck
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1319965727
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1319965726}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.929, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1728686587}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1330059519
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27821,7 +27815,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1359916186
 PrefabInstance:
@@ -28279,7 +28273,7 @@ GameObject:
   - component: {fileID: 1381007472}
   - component: {fileID: 1381007471}
   - component: {fileID: 1381007470}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29114,7 +29108,7 @@ GameObject:
   - component: {fileID: 1407969515}
   - component: {fileID: 1407969514}
   - component: {fileID: 1407969513}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29567,7 +29561,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1422725665}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29904,7 +29898,7 @@ GameObject:
   - component: {fileID: 1443846816}
   - component: {fileID: 1443846815}
   - component: {fileID: 1443846814}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30739,7 +30733,7 @@ GameObject:
   - component: {fileID: 1485678625}
   - component: {fileID: 1485678624}
   - component: {fileID: 1485678623}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31127,7 +31121,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1493501422}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_06
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31240,7 +31234,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1499782958}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31278,7 +31272,7 @@ GameObject:
   - component: {fileID: 1504576345}
   - component: {fileID: 1504576344}
   - component: {fileID: 1504576343}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31373,7 +31367,7 @@ GameObject:
   - component: {fileID: 1507134907}
   - component: {fileID: 1507134906}
   - component: {fileID: 1507134905}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32209,7 +32203,7 @@ GameObject:
   - component: {fileID: 1537909516}
   - component: {fileID: 1537909515}
   - component: {fileID: 1537909514}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32371,7 +32365,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1544459407}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32711,7 +32705,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1563030153}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: City
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32732,7 +32726,7 @@ Transform:
   - {fileID: 2124885690}
   - {fileID: 813167668}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1565934791
 PrefabInstance:
@@ -32885,7 +32879,7 @@ GameObject:
   - component: {fileID: 1570418420}
   - component: {fileID: 1570418419}
   - component: {fileID: 1570418418}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33194,7 +33188,7 @@ GameObject:
   - component: {fileID: 1576186041}
   - component: {fileID: 1576186040}
   - component: {fileID: 1576186039}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33807,7 +33801,7 @@ GameObject:
   - component: {fileID: 1608059318}
   - component: {fileID: 1608059317}
   - component: {fileID: 1608059316}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34202,7 +34196,7 @@ GameObject:
   - component: {fileID: 1623859079}
   - component: {fileID: 1623859078}
   - component: {fileID: 1623859077}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35377,7 +35371,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1671129935}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35414,7 +35408,7 @@ GameObject:
   - component: {fileID: 1671614324}
   - component: {fileID: 1671614323}
   - component: {fileID: 1671614322}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36031,7 +36025,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1698270401}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36364,7 +36358,7 @@ GameObject:
   - component: {fileID: 1714356668}
   - component: {fileID: 1714356667}
   - component: {fileID: 1714356666}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36681,7 +36675,7 @@ GameObject:
   - component: {fileID: 1722294524}
   - component: {fileID: 1722294523}
   - component: {fileID: 1722294522}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36981,56 +36975,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4949096728467809309, guid: 61bd0a13aa7f3bccba0c8c39ce93574b, type: 3}
   m_PrefabInstance: {fileID: 1726005033}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1728686581 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3931231867528561426, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-  m_PrefabInstance: {fileID: 3931231868566339405}
-  m_PrefabAsset: {fileID: 0}
---- !u!143 &1728686582
-CharacterController:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1728686581}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Height: 2
-  m_Radius: 0.5
-  m_SlopeLimit: 45
-  m_StepOffset: 0.3
-  m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1728686583
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1728686581}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c03c61a9b608ccf45a4fe09e9656730a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  controller: {fileID: 1728686582}
-  walkspeed: 10
-  sprint: 18
-  gravity: -30
-  jumpHeight: 2
-  groundCheck: {fileID: 1319965727}
-  groundDistance: 0.4
-  groundMask:
-    serializedVersion: 2
-    m_Bits: 64
---- !u!4 &1728686587 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-  m_PrefabInstance: {fileID: 3931231868566339405}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1730612158
 PrefabInstance:
@@ -37336,7 +37280,7 @@ GameObject:
   - component: {fileID: 1766903282}
   - component: {fileID: 1766903281}
   - component: {fileID: 1766903280}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37895,7 +37839,7 @@ GameObject:
   - component: {fileID: 1819215189}
   - component: {fileID: 1819215188}
   - component: {fileID: 1819215187}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38397,7 +38341,7 @@ GameObject:
   - component: {fileID: 1831304667}
   - component: {fileID: 1831304666}
   - component: {fileID: 1831304665}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39532,6 +39476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Residential Buildings 001
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 3e571dcf5f331d14681a362abbed1409, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3e571dcf5f331d14681a362abbed1409, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -39663,6 +39611,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Residential Buildings 002
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1292a8aea1516364fbc20dfcfd43c90b, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1292a8aea1516364fbc20dfcfd43c90b, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -39718,7 +39670,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1878276283}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_09
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39903,7 +39855,7 @@ GameObject:
   - component: {fileID: 1878477208}
   - component: {fileID: 1878477207}
   - component: {fileID: 1878477206}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40065,7 +40017,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1879437393}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_07
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40102,7 +40054,7 @@ GameObject:
   - component: {fileID: 1880394069}
   - component: {fileID: 1880394068}
   - component: {fileID: 1880394067}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40419,7 +40371,7 @@ GameObject:
   - component: {fileID: 1887391974}
   - component: {fileID: 1887391973}
   - component: {fileID: 1887391972}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40531,7 +40483,7 @@ Transform:
   m_Children:
   - {fileID: 1828099353}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1893625554
 GameObject:
@@ -40545,7 +40497,7 @@ GameObject:
   - component: {fileID: 1893625558}
   - component: {fileID: 1893625557}
   - component: {fileID: 1893625556}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41084,7 +41036,7 @@ GameObject:
   - component: {fileID: 1916851602}
   - component: {fileID: 1916851601}
   - component: {fileID: 1916851600}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41179,7 +41131,7 @@ GameObject:
   - component: {fileID: 1919195332}
   - component: {fileID: 1919195331}
   - component: {fileID: 1919195330}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41274,7 +41226,7 @@ GameObject:
   - component: {fileID: 1920316026}
   - component: {fileID: 1920316025}
   - component: {fileID: 1920316024}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41366,7 +41318,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1921147735}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Crossing_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42069,7 +42021,7 @@ GameObject:
   - component: {fileID: 1949726319}
   - component: {fileID: 1949726318}
   - component: {fileID: 1949726317}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42386,7 +42338,7 @@ GameObject:
   - component: {fileID: 1964342326}
   - component: {fileID: 1964342325}
   - component: {fileID: 1964342324}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42994,7 +42946,7 @@ GameObject:
   - component: {fileID: 1986978338}
   - component: {fileID: 1986978337}
   - component: {fileID: 1986978336}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43167,7 +43119,7 @@ GameObject:
   - component: {fileID: 1988849975}
   - component: {fileID: 1988849974}
   - component: {fileID: 1988849973}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43262,7 +43214,7 @@ GameObject:
   - component: {fileID: 2009838543}
   - component: {fileID: 2009838542}
   - component: {fileID: 2009838541}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43505,7 +43457,7 @@ GameObject:
   - component: {fileID: 2018061009}
   - component: {fileID: 2018061008}
   - component: {fileID: 2018061007}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43600,7 +43552,7 @@ GameObject:
   - component: {fileID: 2024172807}
   - component: {fileID: 2024172806}
   - component: {fileID: 2024172805}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44287,6 +44239,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Residential Buildings 006
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d025e6ccc8eab1e4aa01e2982a6c2c45, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d025e6ccc8eab1e4aa01e2982a6c2c45, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -44785,7 +44741,7 @@ GameObject:
   - component: {fileID: 2071546395}
   - component: {fileID: 2071546394}
   - component: {fileID: 2071546393}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44954,7 +44910,7 @@ GameObject:
   - component: {fileID: 2073112278}
   - component: {fileID: 2073112277}
   - component: {fileID: 2073112276}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45202,7 +45158,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2092306924}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Crossing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45461,7 +45417,7 @@ GameObject:
   - component: {fileID: 2107680811}
   - component: {fileID: 2107680810}
   - component: {fileID: 2107680809}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45926,7 +45882,7 @@ GameObject:
   - component: {fileID: 2119350938}
   - component: {fileID: 2119350937}
   - component: {fileID: 2119350936}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46018,7 +45974,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2124885690}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Roads
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46062,7 +46018,7 @@ GameObject:
   - component: {fileID: 2129128419}
   - component: {fileID: 2129128418}
   - component: {fileID: 2129128417}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46219,7 +46175,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2131801623}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Street_05
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46256,7 +46212,7 @@ GameObject:
   - component: {fileID: 2136972542}
   - component: {fileID: 2136972541}
   - component: {fileID: 2136972540}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: concrete_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46351,7 +46307,7 @@ GameObject:
   - component: {fileID: 2141047810}
   - component: {fileID: 2141047809}
   - component: {fileID: 2141047808}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: stripes_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46434,107 +46390,3 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2141047806}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1001 &3931231868566339405
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3931231867528561426, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_Name
-      value: VR Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561449, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_Drag
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561449, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_Mass
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561449, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_UseGravity
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561449, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_AngularDrag
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561452, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561452, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: maxVelocity
-      value: 60
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561452, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: jumpVelocity
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561452, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: moveAcceleration
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561452, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: strafeAcceleration
-      value: 40
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.93
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561453, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561455, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: sensitivity.x
-      value: 0.6
-      objectReference: {fileID: 0}
-    - target: {fileID: 3931231867528561455, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-      propertyPath: sensitivity.y
-      value: 0.6
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 3931231867528561452, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-    - {fileID: 3931231867528561449, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-    - {fileID: 3931231867528561454, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
-  m_SourcePrefab: {fileID: 100100000, guid: 63add8a13e875e4cea3c7df726291311, type: 3}
